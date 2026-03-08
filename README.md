@@ -1,4 +1,23 @@
-# Policy Issuance Automation Framework
+# 🛡️ Policy Issuance Automation Suite
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+![TestNG](https://img.shields.io/badge/TestNG-DD3131?style=for-the-badge&logo=testng&logoColor=white)
+
+[![GitHub stars](https://img.shields.io/github/stars/Utkp5/Policy-Issuance?style=for-the-badge)](https://github.com/Utkp5/Policy-Issuance/stargazers)
+
+[![GitHub forks](https://img.shields.io/github/forks/Utkp5/Policy-Issuance?style=for-the-badge)](https://github.com/Utkp5/Policy-Issuance/network)
+
+[![GitHub issues](https://img.shields.io/github/issues/Utkp5/Policy-Issuance?style=for-the-badge)](https://github.com/Utkp5/Policy-Issuance/issues)
+
+[![GitHub license](https://img.shields.io/github/license/Utkp5/Policy-Issuance?style=for-the-badge)](LICENSE) <!-- TODO: Add actual license file -->
+
+**Robust, automated testing for a Policy Issuance system using Java, Maven, and TestNG.**
+
 
 ## Project Overview
 
