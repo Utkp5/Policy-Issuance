@@ -1,7 +1,5 @@
 # 🛡️ Policy Issuance Automation Suite
 
-<div align="center">
-
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
